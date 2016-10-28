@@ -1,13 +1,13 @@
 body {
 	padding: 100px;
-	color: #19194C;
+	color: #2F2F5D;
 	background-color: #EBE8DD;
 	font-family: Verdana, Geneva, sans-serif;
 	text-align: center;
 }
 
 a { 
-	color: #612c2c;
+	color: #2F2F5D;
 	text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1 {
 }
 
 #name {
-	color: #19194C;
+	color: #2F2F5D;
 }
 
 #name.price {
