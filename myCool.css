@@ -6,12 +6,7 @@ body {
 	text-align: center;
 }
 
-a { 
-	color: #2F2F5D;
-	text-decoration: none;
 }
-
-a:hover { color: #b23c3c; }
 
 h2 {
 	text-transform: uppercase;
