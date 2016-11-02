@@ -46,7 +46,9 @@ h3 {
 }
 
 .movies {
-	fixed: right;
+	position: fixed;
+	background: purple;
 	width: 50%;
+	right: 50%;
 }
 
