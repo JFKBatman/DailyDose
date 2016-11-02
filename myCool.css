@@ -49,6 +49,7 @@ body {
 ul{
 	list-style: none;
 	padding-left: 0px;
+	float: right;
 }
 
 ul li {
