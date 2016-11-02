@@ -47,12 +47,22 @@ img {
 	width: 50%;
 }
 
-.item {
+.movies {
 	float: right;
 	width: 50%;
 }
 
 h3 {
 	float: left;
+}
+
+.games {
+	float: right;
+	width: 50%;
+}
+
+.music {
+	float: right;
+	width: 50%;
 }
 
