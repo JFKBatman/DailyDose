@@ -53,6 +53,7 @@ ul{
 
 ul li {
 	margin-bottom: 25px;
+	float: right;
 }
 
 img {
