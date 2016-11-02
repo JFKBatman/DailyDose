@@ -30,7 +30,6 @@ body {
 ul{
 	list-style: none;
 	padding-left: 0px;
-	float: right;
 }
 
 ul li {
@@ -47,7 +46,7 @@ h3 {
 }
 
 .movies {
-	float: right;
+	fixed: right;
 	width: 50%;
 }
 
