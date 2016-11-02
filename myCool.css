@@ -15,27 +15,7 @@ h1 {
 	font-family: Buttermilk, fantasy;
 }
 
-}
-
-.price {
-	color: rgb(0, 255, 0);
-}
-
-#name {
-	color: #2F2F5D;
-}
-
-#name.price {
-	color: #008490;
-}
-
-.great {
-	font-size: 20px;
-	text-decoration: underline;
-	font-weight: 900;
-}
-
-.tracked-caps {
+tracked-caps {
 	letter-spacing: 8px;
 }
 
@@ -72,6 +52,6 @@ img {
 }
 
 h3 {
-	float: right;
+	float: left;
 }
 
