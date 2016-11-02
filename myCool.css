@@ -42,27 +42,7 @@ img {
 	height: 30%;
 }
 
-.class {
-	float: left;
-	width: 50%;
-}
-
-.movies {
-	float: right;
-	width: 50%;
-}
-
 h3 {
 	float: left;
-}
-
-.games {
-	float: right;
-	width: 50%;
-}
-
-.music {
-	float: right;
-	width: 50%;
 }
 
