@@ -49,12 +49,10 @@ body {
 ul{
 	list-style: none;
 	padding-left: 0px;
-	float: left;
 }
 
 ul li {
 	margin-bottom: 25px;
-	float: right;
 }
 
 img {
