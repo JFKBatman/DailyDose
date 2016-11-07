@@ -41,7 +41,7 @@ h3 {
 }
 
 ul.two {
-	position: fixed;
+	position: center;
 	background: purple;
 	width: 50%;
 	right: 200px;
