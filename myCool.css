@@ -26,17 +26,7 @@ body {
 	width:700px;
 	margin:0px auto;
 }
-
-ul{
-	list-style: none;
-	padding-left: 0px;
-}
-
-ul li {
-	margin-bottom: 25px;
-}
-
-div.two {
+ul.two {
 	float: center;
 	background: purple;
 	width: 33%;
@@ -44,7 +34,7 @@ div.two {
 	text-decoration: none;
 }
 
-div.one {
+ul.one {
 	float: left;
 	background: blue;
 	width: 33%;
@@ -52,7 +42,7 @@ div.one {
 	text-decoration: none;
 }
 
-div.three {
+ul.three {
 	float: right;
 	background: red;
 	width: 33%;
