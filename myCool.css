@@ -43,21 +43,24 @@ h3 {
 ul.two {
 	float: center;
 	background: purple;
-	width: 50%;
+	width: 33%;
+	height: 33%;
 	text-decoration: none;
 }
 
 ul.one {
 	float: left;
 	background: blue;
-	width: 50%;
+	width: 33%;
+	height: 33%;
 	text-decoration: none;
 }
 
 ul.three {
 	float: right;
 	background: red;
-	width: 50%;
+	width: 33%;
+	height: 33%;
 	text-decoration;
 }
 
