@@ -40,7 +40,7 @@ h3 {
 	fixed: left;
 }
 
-h3.two {
+ul.two {
 	position: fixed;
 	background: purple;
 	width: 50%;
