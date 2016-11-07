@@ -44,7 +44,13 @@ ul.two {
 	float: center;
 	background: purple;
 	width: 50%;
-	right: 200px;
+	text-decoration: none;
+}
+
+ul.one {
+	float: left;
+	background: blue;
+	width: 50%;
 	text-decoration: none;
 }
 
