@@ -40,7 +40,7 @@ h3 {
 	fixed: left;
 }
 
-.movies {
+h3.two {
 	position: fixed;
 	background: purple;
 	width: 50%;
