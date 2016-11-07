@@ -36,7 +36,7 @@ ul li {
 	margin-bottom: 25px;
 }
 
-ul.two {
+div.two {
 	float: center;
 	background: purple;
 	width: 33%;
@@ -44,7 +44,7 @@ ul.two {
 	text-decoration: none;
 }
 
-ul.one {
+div.one {
 	float: left;
 	background: blue;
 	width: 33%;
@@ -52,7 +52,7 @@ ul.one {
 	text-decoration: none;
 }
 
-ul.three {
+div.three {
 	float: right;
 	background: red;
 	width: 33%;
