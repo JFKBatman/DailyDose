@@ -50,3 +50,7 @@ ul.three {
 	text-decoration;
 }
 
+li {
+	list-style-type: none;
+}
+
