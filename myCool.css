@@ -4,6 +4,7 @@ body {
 	background-color: #EBE8DD;
 	font-family: Verdana, Geneva, sans-serif;
 	text-align: center;
+	background-image: url(K1JEKoq.jpg);
 }
 
 h2 {
@@ -68,5 +69,4 @@ body.two {
 	background-color: #EBE8DD;
 	font-family: Verdana, Geneva, sans-serif;
 	text-align: center;
-	background-image: url(K1JEKoq.jpg);
 }
