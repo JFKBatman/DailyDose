@@ -61,3 +61,12 @@ h3 {
 a.link:visited {
 	color: #d882cc;
 }
+
+body.two {
+	padding: 100px;
+	color: #2F2F5D;
+	background-color: #EBE8DD;
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	background-image: url(K1JEKoq.jpg);
+}
