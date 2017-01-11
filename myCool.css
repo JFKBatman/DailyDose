@@ -58,7 +58,8 @@ h3 {
 	color: #55ADFF;
 }
 
-
+tracked-caps {
+	letter-spacing: 8px;
 }
 body.two {
 	padding: 100px;
