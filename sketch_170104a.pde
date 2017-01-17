@@ -1,5 +1,4 @@
 PShape bot;
-PShape bot2;
 
  //Flappy Code
     bird b = new bird();
@@ -90,9 +89,9 @@ PShape bot2;
       xPos = 100+(i*200);
       opening = random(600)+100;
      }
-     void drawPillar(){
-       shape(bot2, xPos,0,xPos,opening-100);  
-       shape(bot2, xPos,opening+100,xPos,800);
+    void drawPillar(){
+       line(xPos,0,xPos,opening-100);  
+       line(xPos,opening+100,xPos,800);
      }
      void checkPosition(){
       if(xPos<0){
